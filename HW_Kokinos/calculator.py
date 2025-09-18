@@ -15,4 +15,19 @@ def main(expression):
         result = deviation(num1, num2)
     return result
 
-print(main('5 / 0'))
+def difference(a, b):
+    return (a - b)
+
+def multiple(a, b):
+    return (a * b)
+
+def deviation (x, y): 
+	  return (x/y)
+      
+def addition(a, b):
+    return (a + b)
+  
+print(main(input("Введите выражение"))
+      
+      
+
