@@ -22,12 +22,12 @@ def multiple(a, b):
     return (a * b)
 
 def deviation (x, y): 
-	  return (x/y)
+    return (x/y)
       
 def addition(a, b):
     return (a + b)
   
-print(main(input("Введите выражение"))
+print(main(input("Введите выражение: ")))
       
       
 
