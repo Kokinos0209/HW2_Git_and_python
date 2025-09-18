@@ -17,9 +17,9 @@ ___
 - Make sure Python 3 is installed on your machine
 #### *Developed by*
 ___
-- Gorenkova Anastasiia  
-- Kokinos Elena  
-- Parfenova Polina  
-- Shchukina Elza  
-- Zhidkin Roman
+- Gorenkova Anastasiia (create main function)  
+- Kokinos Elena (create addition function)
+- Parfenova Polina (create multiple function)
+- Shchukina Elza (create difference function)
+- Zhidkin Roman (create division function)
 ![team photo](imgs/team_photo.jpg) 
